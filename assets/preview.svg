@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#101612"/>
+  <circle cx="933" cy="315" r="245" fill="none" stroke="#4b5b47"/>
+  <circle cx="933" cy="315" r="190" fill="none" stroke="#4b5b47"/>
+  <circle cx="933" cy="315" r="135" fill="none" stroke="#4b5b47"/>
+  <defs><radialGradient id="sphere" cx="30%" cy="25%"><stop stop-color="#e8f4c2"/><stop offset=".35" stop-color="#c8e49a"/><stop offset="1" stop-color="#324a37"/></radialGradient></defs>
+  <circle cx="933" cy="315" r="87" fill="url(#sphere)"/>
+  <text x="100" y="105" fill="#d4ed88" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="6">SINTHOS</text>
+  <text x="100" y="295" fill="#edf0e7" font-family="Arial,sans-serif" font-size="68" font-weight="600">Something good</text>
+  <text x="100" y="380" fill="#d4ed88" font-family="Arial,sans-serif" font-size="68" font-weight="600">is taking shape.</text>
+  <text x="103" y="460" fill="#aab4a9" font-family="Arial,sans-serif" font-size="25">Our new home is coming soon.</text>
+</svg>
