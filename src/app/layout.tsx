@@ -29,7 +29,6 @@ export const metadata: Metadata = {
     type: "website",
     images: [{ url: "/assets/valley.webp", width: 1774, height: 887 }],
   },
-  icons: { icon: "/assets/favicon.svg" },
 };
 export default function RootLayout({
   children,
